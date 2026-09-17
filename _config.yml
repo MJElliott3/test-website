@@ -14,8 +14,8 @@ google-tracking-id: "UA-XXXXXXXX-X"
 lang: "en"
 author: "Michael Elliott"
 title: "{ Michael Elliott }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Michael Elliott, blogging mainly about security and tech topics. Opinions expressed are mine."
+keywords: "elliott, michael, personal, jekyll, theme, tech, networking"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
