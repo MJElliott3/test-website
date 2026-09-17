@@ -147,6 +147,7 @@ exclude:
   - CONTRIBUTORS
   - scripts
   - Dockerfile
+  - vendor/
   - docker-compose.yml
 # Pagination path
 paginate_path: "blog/page:num/"
