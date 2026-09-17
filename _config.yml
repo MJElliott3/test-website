@@ -12,8 +12,8 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "Michael Elliott"
-title: "{ Michael Elliott }"
+author: "Michael J. Elliott"
+title: "{ Michael J. Elliott }"
 description: "Blog and website of Michael Elliott, blogging mainly about security and tech topics. Opinions expressed are mine."
 keywords: "elliott, michael, personal, jekyll, theme, tech, networking"
 favicon: "/img/favicon.ico"
